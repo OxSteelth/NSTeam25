@@ -1,1 +1,1 @@
-<h2 align="center">Booking.Com</h2>
+<h2 align="center">Un-Official Booking.com API Wrapper</h2>
